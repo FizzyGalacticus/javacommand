@@ -1,0 +1,2 @@
+Main-Class: command.driver.CommandDriver
+Class-Path: .
